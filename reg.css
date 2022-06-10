@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+.mshobeli{
+    background-color: rgb(0, 25, 248);
+    width: 100%;
+    display: flex;
+
+}
+.shvili{
+    background-color: rgb(9, 153, 40);
+    width: 50%;
+    padding: 100px;
+}
+.mwvane{
+    background-color: 009789;
+    padding: 100px 50px;
+    }
+    .tetri{
+        background-color: #fff
+
+    }
+     .shvili h2{
+         width:400px ;
+         margin:auto;
+         text-align: center;
+         color: blanchedalmond;
+         font-size: 24px;
+         text-transform: uppercase;
+     }
+     .shvili p{
+         margin-top: 70px;
+     }
+     .registracia a{
+         color: rgb(255, 255, 255);
+         padding: 5px 10px;
+         border: 1px solid rgb(255, 255, 255);
+     }
+     h3{
+         font-size: 24px;
+         width: 400px;
+         margin: 0 auto;
+         text-align: center;
+         text-transform: uppercase;
+     }
+     form{
+         width: 500px;
+         margin: 50px auto;
+       
+     }
+     form input{
+         width: 100%;
+         padding: 20px;
+         border: none;
+         border-bottom: 1px solid rgb(90, 90, 90);
+     }
+     #terms{
+         width: 5%;
+         margin: 20px 0;
+     }
+
+
+     .terms{
+     font-weight:bold ;
+     }
+
+
+    #submit{
+        width: 20%;
+        padding: 10px;
+        border: none;
+        background-color: rgb(7, 128, 37);
+        color: rgb(255, 255, 255);
+    }
